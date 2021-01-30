@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+
+<head>
+<title> Landing Page </html>
+</head>
+
+<body>
+<img src="./feature-gamez/background.jpeg"> </img>
+</body>
+</html>
