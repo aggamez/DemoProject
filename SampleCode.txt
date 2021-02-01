@@ -3,3 +3,6 @@ Hi!
 print("Hello World")
 print("Thank You Everyone!")
 // this is a comment
+/*
+	this is a block comment
+*/
